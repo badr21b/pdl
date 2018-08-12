@@ -1,0 +1,11 @@
+{
+    "config": {
+	  "vendor-dir": "application/vendor"
+	},
+	"require": {
+		"phpunit/phpunit": "4.6.6",
+	    "phing/phing": "dev-master",
+	    "freshmindpl/wyszukiwarkaregon": "~3.0"
+
+	}
+}

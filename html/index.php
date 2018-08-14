@@ -1,7 +1,6 @@
 <?php
 /* db connect */
-include './db_functions/test_db_function.php';
-
+include '../app/db_functions/test_db_function.php';
 $test = "hello world";
 ?>
 
